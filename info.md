@@ -33,5 +33,7 @@
 > git merge branch_name
 
 изменения добавятся в текущую
+Для перехода к ветке branch_name :
+> git checkout branch_name
 
 ![какая-то картинка](9e5a3b2a3c0e8b9746857a91144e1b74--beach-sunsets-landscape-photos.jpg)
