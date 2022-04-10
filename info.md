@@ -22,3 +22,5 @@
 
 и чтобы вернуться :
 > git checkout master
+
+![какая-то картинка](9e5a3b2a3c0e8b9746857a91144e1b74--beach-sunsets-landscape-photos.jpg)
